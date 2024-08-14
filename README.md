@@ -2,7 +2,6 @@
 
 - 💪 I like to write code<br />
 - 🥅 I am constantly learning something new<br />
-- 🤹🏽 I like to shoot videos on Youtube and other sites
  
 <br />
 <h2>🔥Languages and tools:</h2>
