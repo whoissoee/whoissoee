@@ -1,7 +1,6 @@
 ## Python-dev
 
-- 💪 I like to write code<br />
-- 🥅 I am constantly learning something new<br />
+- Briefly, clearly, without disruption<br />
  
 <br />
 <h2>🔥Languages and tools:</h2>
